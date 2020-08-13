@@ -1,0 +1,31 @@
+[
+    {
+    "id": 1 ,
+    "name":"white cate",
+    "price":1000,
+    "image":"https://blog.ferplast.com/wp-content/uploads/2019/07/owning-a-white-cat-5b1b91a318ba9-1024x683.jpg",
+    "description":"What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book it has?"
+},
+    {
+         "id": 2 ,
+        "name":"angry cate",
+        "price":100,
+        "image":"https://cdn.mos.cms.futurecdn.net/5FmFtc974AjN255w6iELLj.jpg",
+        "description":"What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book it has?"
+    },
+    {
+        "id": 3 ,
+        "name":"bengal cat ",
+        "price":2000,
+        "image":"https://vetstreet.brightspotcdn.com/dims4/default/4f4dea1/2147483647/crop/0x0%2B0%2B0/resize/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F31%2F1ba400a28511e087a80050568d634f%2Ffile%2FBengal-3-645mk062211.jpg",
+        "description":"What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book it has?"
+    
+    },
+    {
+        "id": 4 ,
+        "name":"persian cat",
+        "price":400,
+        "image":"https://www.aaha.org/contentassets/f557d057200b4d7197d67acce3ea725f/image9iii.png",
+        "description":"What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book it has?"    
+    }
+]
